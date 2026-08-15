@@ -1,3 +1,5 @@
+
+
 # 🎙️ LipSyncEngine.js
 
 > High-quality lip-sync animation from audio in the browser
@@ -310,6 +312,9 @@ npm run build
 
 # Type check
 npm run typecheck
+
+# Run tests
+npm run test
 
 # Clean build artifacts
 npm run clean
